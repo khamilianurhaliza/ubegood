@@ -314,17 +314,17 @@ If you like this project, don't forget to ⭐ the repository.
 Preview screenshot halaman website (full-width dan bagian produk). Letakkan file screenshot di folder `screenshot-img/` dengan nama persis seperti contoh di bawah agar tampil otomatis.
 
 <p align="center">
-  <img src="screenshot-img/desktop-1.png" alt="Ubegood - full page" width="100%" style="border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.12)" />
+  <img src="screenshot-img/home-1.png" alt="Ubegood - full page" width="100%" style="border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.12)" />
 </p>
 
 <p align="center">
-  <img src="screenshot-img/desktop-2.png" alt="Ubegood - product grid" width="100%" style="border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.12)" />
+  <img src="screenshot-img/home-2.png" alt="Ubegood - product grid" width="100%" style="border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.12)" />
 </p>
 
 **Cara menambahkan screenshot**
 
 1. Buat folder `screenshot-img/` di root proyek jika belum ada.
-2. Simpan screenshot desktop/halaman penuh dengan nama `desktop-1.png` dan `desktop-2.png`.
+2. Simpan screenshot desktop/halaman penuh dengan nama `home-1.png` dan `home-2.png`.
 3. Commit perubahan file gambar ke repo — README akan menampilkan preview otomatis.
 
 Contoh menggunakan nama lain: sesuaikan path gambar di README jika Anda menggunakan nama berbeda.
