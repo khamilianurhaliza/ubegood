@@ -6,11 +6,12 @@
 
 ### Ubi Oven Premium dengan Topping Lezat & Tampilan Modern
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Healthy+Sweet+Potato+Snacks;Modern+Food+Landing+Page;Built+with+Tailwind+CSS+%26+AOS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Healthy+Sweet+Potato+Snacks;Modern+Food+Landing+Page;MBKM+Entrepreneurship+Project;Built+with+Tailwind+CSS+%26+AOS"/>
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Prototype-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![MBKM](https://img.shields.io/badge/MBKM-Kewirausahaan-red?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![AOS](https://img.shields.io/badge/AOS-Animation-orange?style=for-the-badge)
@@ -21,19 +22,40 @@
 
 ## ✨ Overview
 
-**Ubegood** adalah landing page modern untuk produk **Ubi Oven Premium** dengan berbagai topping lezat.
+**Ubegood** adalah website landing page modern yang dirancang untuk mempromosikan produk **Ubi Oven Premium** dengan berbagai pilihan topping lezat.
 
-Website ini dirancang dengan fokus pada:
+Website ini dibuat dengan pendekatan modern menggunakan **Tailwind CSS**, **AOS Animation**, dan **PHP**, sehingga mampu memberikan pengalaman pengguna yang menarik, responsif, dan mudah digunakan.
 
-* 🎨 Visual yang menarik
-* 📱 Responsive Design
-* ⚡ Fast Loading
-* ✨ Smooth Animation
-* 🛒 User-Friendly Ordering Experience
+Fokus utama pengembangan website ini adalah:
+
+* 🎨 Visual yang menarik dan modern
+* 📱 Responsive di berbagai perangkat
+* ⚡ Performa ringan dan cepat
+* ✨ Animasi interaktif yang halus
+* 🛒 Pengalaman pemesanan yang mudah
 
 ---
 
-## 🖼️ Hero Preview
+# 🎓 MBKM Entrepreneurship Project
+
+**Ubegood** merupakan salah satu proyek yang dikembangkan dalam program **Merdeka Belajar Kampus Merdeka (MBKM) Kewirausahaan**.
+
+Proyek ini bertujuan untuk mengembangkan usaha berbasis produk pangan lokal melalui pemanfaatan teknologi digital sebagai media promosi dan pemasaran.
+
+Melalui program MBKM Kewirausahaan, pengembangan proyek ini mencakup:
+
+* 💡 Identifikasi peluang bisnis
+* 📊 Analisis pasar dan target pelanggan
+* 🎨 Perancangan branding produk
+* 💻 Pengembangan website promosi
+* 📱 Implementasi UI/UX modern
+* 📈 Strategi pemasaran digital
+
+Website ini menjadi bagian dari upaya digitalisasi usaha dan pengembangan produk lokal agar mampu menjangkau pasar yang lebih luas.
+
+---
+
+# 🖼️ Hero Preview
 
 <p align="center">
   <img src="p2.jpg" width="100%" alt="Ubegood Hero"/>
@@ -68,7 +90,7 @@ Website ini dirancang dengan fokus pada:
 <tr>
 <td align="center">
 <img src="p1.jpg" width="300"><br>
-<b>🍠 Ubi Oven 1KG</b>
+<b>🍠 Ubi Oven 1 KG</b>
 </td>
 
 <td align="center">
@@ -82,31 +104,33 @@ Website ini dirancang dengan fokus pada:
 
 # 🚀 Features
 
-### 🎨 Modern UI Design
+## 🎨 Modern User Interface
 
-* Clean Layout
-* Premium Food Branding
-* Soft Color Palette
-* Elegant Typography
+* Clean & modern layout
+* Premium food branding
+* Elegant typography
+* Attractive visual hierarchy
 
-### ✨ Interactive Animations
+## ✨ Interactive Animation
 
-* Scroll Reveal Animation
-* Fade-Up Effects
-* Hover Scale Effects
-* Smooth Transitions
+* Scroll reveal animation
+* Fade-up effects
+* Hover interactions
+* Smooth transition effects
 
-### 📱 Fully Responsive
+## 📱 Responsive Design
 
-* Mobile Friendly
-* Tablet Optimized
-* Desktop Experience
+* Mobile-first approach
+* Tablet optimized
+* Desktop friendly
+* Flexible grid system
 
-### 🛒 Easy Ordering
+## 🛒 Easy Ordering Experience
 
-* WhatsApp Integration
-* Fast Call-To-Action Button
-* User Friendly Navigation
+* WhatsApp integration
+* Clear call-to-action buttons
+* Easy navigation flow
+* Product-focused design
 
 ---
 
@@ -122,11 +146,18 @@ Website ini dirancang dengan fokus pada:
 
 * Tailwind CSS
 * Font Awesome
-* AOS Animation
+* AOS (Animate On Scroll)
 
 ### Backend
 
 * PHP
+
+### Design Principles
+
+* Responsive Design
+* User Experience (UX)
+* Modern UI Design
+* Accessibility Consideration
 
 ---
 
@@ -149,12 +180,12 @@ Ubegood/
 
 ---
 
-# ⚡ Quick Start
+# ⚡ Getting Started
 
 Clone repository:
 
 ```bash
-git clone https://github.com/username/ubegood.git
+git clone https://github.com/yourusername/ubegood.git
 ```
 
 Masuk ke folder project:
@@ -163,7 +194,7 @@ Masuk ke folder project:
 cd ubegood
 ```
 
-Jalankan server PHP:
+Jalankan PHP Built-in Server:
 
 ```bash
 php -S localhost:8000
@@ -184,35 +215,35 @@ http://localhost:8000
 
 ### Mengubah Produk
 
-Edit data menu pada:
+Edit data produk pada:
 
 ```php
 index.php
 ```
 
-### Mengubah Warna
+### Mengubah Warna Utama
 
-Cari class Tailwind:
+Cari class Tailwind berikut:
 
 ```html
 bg-orange-600
 ```
 
-dan ganti sesuai kebutuhan.
+Kemudian sesuaikan dengan warna branding yang diinginkan.
 
-### Mengubah Animasi
+### Mengubah Efek Animasi
 
-Cari:
+Cari konfigurasi:
 
 ```javascript
 AOS.init()
 ```
 
-Kemudian sesuaikan:
+Parameter yang dapat disesuaikan:
 
 * duration
-* easing
 * delay
+* easing
 * offset
 
 </details>
@@ -230,19 +261,49 @@ Kemudian sesuaikan:
 
 ---
 
+# 🎯 Project Goals
+
+* Meningkatkan branding produk Ubegood
+* Menampilkan informasi produk secara menarik
+* Mendukung pemasaran digital UMKM
+* Meningkatkan pengalaman pengguna
+* Memanfaatkan teknologi web modern dalam promosi produk
+
+---
+
+# 🏆 Project Achievement
+
+* 🎓 Developed as part of MBKM Entrepreneurship Program
+* 💡 Applied entrepreneurship concepts into digital products
+* 🍠 Promoted local food products through digital platforms
+* 🌐 Built responsive web-based promotional media
+* 📱 Implemented modern UI/UX principles
+* 📈 Supported digital marketing activities
+
+---
+
 # ⭐ Why Ubegood?
 
-* 🍠 Healthy Snack
+* 🍠 Healthy & Delicious Product
 * 🎨 Modern Interface
-* ⚡ Fast Performance
-* 📱 Mobile First
-* ✨ Smooth Animation
+* ⚡ Lightweight Performance
+* 📱 Fully Responsive
+* ✨ Smooth User Experience
+* 🚀 Easy Product Promotion
+
+---
+
+## 👨‍💻 Author
+
+**Mil**
+
+Information Systems Graduate | UI/UX Designer | Front-End Enthusiast
 
 ---
 
 <div align="center">
 
-## 💛 Made with Passion
+## 💛 Made with Passion During MBKM Entrepreneurship Program
 
 If you like this project, don't forget to ⭐ the repository.
 
