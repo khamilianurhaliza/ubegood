@@ -1,83 +1,251 @@
- # Ubegood — Ubi Oven & Topping Lezat
+<div align="center">
 
- ![Ubegood Preview](p2.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F59E0B,50:F97316,100:EA580C&text=🍠%20UBEGOOD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
- > Menu camilan sehat dan topping kreatif — tampil modern dengan efek animasi.
+# 🍠 Ubegood
 
- - **Status:** Prototype statis (HTML/PHP)
- - **Teknologi:** Tailwind CSS, AOS (Animate On Scroll), Font Awesome, PHP
+### Ubi Oven Premium dengan Topping Lezat & Tampilan Modern
 
- ---
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Healthy+Sweet+Potato+Snacks;Modern+Food+Landing+Page;Built+with+Tailwind+CSS+%26+AOS"/>
 
- **Demo & Preview**
+<br>
 
- <p align="center">
-   <img src="p2.jpg" alt="Ubegood Hero" width="900" style="border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.15)" />
- </p>
+![Status](https://img.shields.io/badge/Status-Prototype-success?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-Animation-orange?style=for-the-badge)
 
- **Gallery**
+</div>
 
- <p align="center">
-   <img src="p6.jpg" alt="Banana Delight" width="280" style="margin:8px; border-radius:10px;" />
-   <img src="p3.jpg" alt="Savory Cheese" width="280" style="margin:8px; border-radius:10px;" />
-   <img src="p5.jpg" alt="Sweet Crunch" width="280" style="margin:8px; border-radius:10px;" />
- </p>
+---
 
- <p align="center">
-   <img src="p1.jpg" alt="1kg Ubi Oven" width="280" style="margin:8px; border-radius:10px;" />
-   <img src="p9.jpg" alt="Bola Ubi Crispy" width="280" style="margin:8px; border-radius:10px;" />
- </p>
+## ✨ Overview
 
- ---
+**Ubegood** adalah landing page modern untuk produk **Ubi Oven Premium** dengan berbagai topping lezat.
 
- **Fitur Utama**
+Website ini dirancang dengan fokus pada:
 
- - Visual modern dengan Tailwind CSS dan font Playfair / Poppins
- - Animasi scroll halus menggunakan AOS (fade-up, delay)
- - Kartu menu dengan hover transform, bayangan, dan tombol order via WhatsApp
- - Responsif — grid yang menyesuaikan kolom untuk mobile/tablet/desktop
+* 🎨 Visual yang menarik
+* 📱 Responsive Design
+* ⚡ Fast Loading
+* ✨ Smooth Animation
+* 🛒 User-Friendly Ordering Experience
 
- ---
+---
 
- **Struktur Proyek Singkat**
+## 🖼️ Hero Preview
 
- - index.php — halaman utama (HTML + referensi CSS/JS)
- - p1.jpg, p2.jpg, p3.jpg, p5.jpg, p6.jpg, p9.jpg — aset gambar menu (letakkan di root proyek)
+<p align="center">
+  <img src="p2.jpg" width="100%" alt="Ubegood Hero"/>
+</p>
 
- ---
+---
 
- **Jalankan Lokal**
+# 🌟 Featured Products
 
- 1. Buka terminal di folder proyek.
- 2. Jalankan PHP built-in server (jika terpasang):
+<table>
+<tr>
+<td align="center">
+<img src="p6.jpg" width="250"><br>
+<b>🍌 Banana Delight</b>
+</td>
 
- ```bash
- php -S localhost:8000
- ```
+<td align="center">
+<img src="p3.jpg" width="250"><br>
+<b>🧀 Savory Cheese</b>
+</td>
 
- 3. Buka browser ke `http://localhost:8000/index.php` atau cukup buka file `index.php` langsung.
+<td align="center">
+<img src="p5.jpg" width="250"><br>
+<b>🍫 Sweet Crunch</b>
+</td>
+</tr>
+</table>
 
- ---
+<br>
 
- **Kustomisasi Cepat**
+<table>
+<tr>
+<td align="center">
+<img src="p1.jpg" width="300"><br>
+<b>🍠 Ubi Oven 1KG</b>
+</td>
 
- - Ubah teks menu, harga, dan gambar di `index.php`.
- - Ganti warna utama dengan utilitas Tailwind di kelas `bg-orange-50` / `bg-orange-600`.
- - Ubah durasi/efek AOS pada inisialisasi `AOS.init({...})` di bagian bawah `index.php`.
+<td align="center">
+<img src="p9.jpg" width="300"><br>
+<b>🥔 Bola Ubi Crispy</b>
+</td>
+</tr>
+</table>
 
- ---
+---
 
- **Tips menambahkan screenshot berkualitas**
+# 🚀 Features
 
- 1. Buka `index.php` di browser (desktop).  
- 2. Ambil screenshot penuh halaman atau area kartu menu.  
- 3. Simpan sebagai `p2.jpg` (hero) dan `p6.jpg`, `p3.jpg` dst. di root proyek agar gallery tampil otomatis.
+### 🎨 Modern UI Design
 
- ---
+* Clean Layout
+* Premium Food Branding
+* Soft Color Palette
+* Elegant Typography
 
- Jika Anda mau, saya bisa:
+### ✨ Interactive Animations
 
- - Men-generate contoh screenshot placeholder jika Anda ingin (PNG/GIF).  
- - Menambahkan file `assets/` dan memperbarui path gambar.  
+* Scroll Reveal Animation
+* Fade-Up Effects
+* Hover Scale Effects
+* Smooth Transitions
 
- Terima kasih — beri tahu apakah mau desain README berbeda atau saya tambahkan screenshot otomatis.
+### 📱 Fully Responsive
+
+* Mobile Friendly
+* Tablet Optimized
+* Desktop Experience
+
+### 🛒 Easy Ordering
+
+* WhatsApp Integration
+* Fast Call-To-Action Button
+* User Friendly Navigation
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,html,css,js"/>
+
+</div>
+
+### Frontend
+
+* Tailwind CSS
+* Font Awesome
+* AOS Animation
+
+### Backend
+
+* PHP
+
+---
+
+# 📂 Project Structure
+
+```text
+Ubegood/
+│
+├── index.php
+│
+├── p1.jpg
+├── p2.jpg
+├── p3.jpg
+├── p5.jpg
+├── p6.jpg
+├── p9.jpg
+│
+└── README.md
+```
+
+---
+
+# ⚡ Quick Start
+
+Clone repository:
+
+```bash
+git clone https://github.com/username/ubegood.git
+```
+
+Masuk ke folder project:
+
+```bash
+cd ubegood
+```
+
+Jalankan server PHP:
+
+```bash
+php -S localhost:8000
+```
+
+Buka browser:
+
+```text
+http://localhost:8000
+```
+
+---
+
+# 🎨 Customization
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+### Mengubah Produk
+
+Edit data menu pada:
+
+```php
+index.php
+```
+
+### Mengubah Warna
+
+Cari class Tailwind:
+
+```html
+bg-orange-600
+```
+
+dan ganti sesuai kebutuhan.
+
+### Mengubah Animasi
+
+Cari:
+
+```javascript
+AOS.init()
+```
+
+Kemudian sesuaikan:
+
+* duration
+* easing
+* delay
+* offset
+
+</details>
+
+---
+
+# 📸 Responsive Preview
+
+| Desktop         | Mobile            |
+| --------------- | ----------------- |
+| ✅ Optimized     | ✅ Optimized       |
+| Hero Banner     | Responsive Layout |
+| Product Grid    | Stacked Cards     |
+| Hover Animation | Touch Friendly    |
+
+---
+
+# ⭐ Why Ubegood?
+
+* 🍠 Healthy Snack
+* 🎨 Modern Interface
+* ⚡ Fast Performance
+* 📱 Mobile First
+* ✨ Smooth Animation
+
+---
+
+<div align="center">
+
+## 💛 Made with Passion
+
+If you like this project, don't forget to ⭐ the repository.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F59E0B,50:F97316,100:EA580C"/>
+
+</div>
