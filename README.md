@@ -311,7 +311,8 @@ If you like this project, don't forget to ⭐ the repository.
 
 ## 🖼️ Website Screenshots
 
-Preview screenshot halaman website (full-width dan bagian produk). Letakkan file screenshot di folder `screenshot-img/` dengan nama persis seperti contoh di bawah agar tampil otomatis.
+Berikut adalah tampilan antarmuka website **U Be Good**, sebuah platform yang dirancang untuk memberikan pengalaman pengguna yang modern, informatif, dan mudah digunakan. Desain website difokuskan pada penyampaian informasi yang jelas, navigasi yang intuitif, serta tampilan visual yang menarik untuk meningkatkan engagement pengguna.
+
 
 <p align="center">
   <img src="screenshot-img/home-1.png" alt="Ubegood - full page" width="100%" style="border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.12)" />
