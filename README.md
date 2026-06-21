@@ -203,8 +203,7 @@ php -S localhost:8000
 Buka browser:
 
 ```text
-http://localhost:8000
-```
+https://ubegood.netlify.app/```
 
 ---
 
