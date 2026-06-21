@@ -260,7 +260,15 @@ Parameter yang dapat disesuaikan:
 | Hover Animation | Touch Friendly    |
 
 ---
+### 🚀 Explore The Website
 
+<p align="center">
+  <a href="https://ubegood.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Live%20Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+--- 
 # 🎯 Project Goals
 
 * Meningkatkan branding produk Ubegood
