@@ -19,7 +19,13 @@
 </div>
 
 ---
+<p align="center">
+  <a href="https://ubegood.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-F97316?style=for-the-badge" />
+  </a>
+</p>
 
+---
 ## ✨ Overview
 
 **Ubegood** adalah website landing page modern yang dirancang untuk mempromosikan produk **Ubi Oven Premium** dengan berbagai pilihan topping lezat.
@@ -260,15 +266,7 @@ Parameter yang dapat disesuaikan:
 | Hover Animation | Touch Friendly    |
 
 ---
-### 🚀 Explore The Website
 
-<p align="center">
-  <a href="https://ubegood.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Live%20Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
---- 
 # 🎯 Project Goals
 
 * Meningkatkan branding produk Ubegood
